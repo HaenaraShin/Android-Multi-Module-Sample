@@ -1,0 +1,2 @@
+include ':productionapp', ':core', ':essential', ':optfeature1', ':optfeature2', ':production', ':totaltest', ':customer', ':totaltestapp', ':customerapp', ':pctest'
+rootProject.name='MultiModuleSample'

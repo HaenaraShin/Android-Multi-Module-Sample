@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EssentialModule</string>
+    <string name="feature1">FEATURE1</string>
+    <string name="feature2">FEATURE2</string>
+</resources>
