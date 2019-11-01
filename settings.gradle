@@ -1,2 +1,2 @@
-include ':productionapp', ':core', ':essential', ':optfeature1', ':optfeature2', ':production', ':totaltest', ':customer', ':totaltestapp', ':customerapp', ':pctest'
+include ':production_app', ':core', ':essential', ':optfeature1', ':optfeature2', ':production', ':totaltest', ':client', ':totaltest_app', ':client_app', ':pctest'
 rootProject.name='MultiModuleSample'
